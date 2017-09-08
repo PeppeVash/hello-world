@@ -1,2 +1,4 @@
 # hello-world
-ehy!
+ehy! I'm PeppeVash.
+
+I'm creative designer and i'm looking for some code improvement.
